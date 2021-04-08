@@ -13,10 +13,16 @@
     "url": "git+https://github.com/MashaKur/markdown.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Masha",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MashaKur/markdown/issues"
   },
-  "homepage": "https://github.com/MashaKur/markdown#readme"
+  "homepage": "https://github.com/MashaKur/markdown#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
 }
